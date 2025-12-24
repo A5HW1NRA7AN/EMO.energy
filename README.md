@@ -111,7 +111,7 @@ While sophisticated ensembles like XGBoost plateaued at an MAE of ~39, the Neura
 **Ashwin Rajan**
 * **Role**: AI/ML Engineer & Researcher
 * **Focus**: Deep Learning, Predictive Analytics, and Computer Vision.
-* **Contact**: [[Your LinkedIn Profile](https://www.linkedin.com/in/ashwin-rajan-ai-ml-dev/)] | [ashwinrajanblr27@gmail.com]
+* **Contact**: [LinkedIn](https://www.linkedin.com/in/ashwin-rajan-ai-ml-dev/) | [Email](ashwinrajanblr27@gmail.com)
 
 ---
 *This project was completed as part of the Technical Assessment for the AI/ML Engineer Internship at EMO Energy.*
